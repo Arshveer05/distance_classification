@@ -1,0 +1,8 @@
+venv/
+
+*.csv
+*.xlsx
+*.json
+
+*.log
+logs/
