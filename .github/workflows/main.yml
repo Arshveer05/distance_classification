@@ -8,8 +8,8 @@ jobs:
         - name: Set up Python
           uses: actions/setup-python@v4
           with:
-            python-version: '3.11'
-        - name: Install dependenciesclea
+            python-version: '3.11.9'
+        - name: Install dependencies
           run: |
             pip install numpy pandas scikit-learn
         - name: Run test script
