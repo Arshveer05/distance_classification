@@ -1,10 +1,31 @@
+# Ignore virtual environments
 venv/
+.env/
+.venv/
 
+# Ignore dataset files (CSV, Excel, JSON, etc.)
 *.csv
 *.xlsx
 *.json
+*.parquet
+*.h5
 
+# Ignore log files
 *.log
 logs/
+*.out
+*.err
+debug.log
+nohup.out
 
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
 
+# Ignore compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
