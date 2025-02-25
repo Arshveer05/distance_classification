@@ -2,8 +2,8 @@
 
 Author: Arshveer Chhabra
 
-Tasks Completed:
-distance_classification created
-gitignore created
-workflows enabled, yml created
-test_script created
+Output Images:
+![alt text](<Screenshot 2025-02-25 at 19.56.13.png>)
+
+![alt text](<Screenshot 2025-02-25 at 19.56.17.png>)
+
