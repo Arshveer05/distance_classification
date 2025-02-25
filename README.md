@@ -2,7 +2,8 @@
 
 Author: Arshveer Chhabra
 
-First File:
-distance_classification file created, created gitignore file, commiting.
-
-Update test
+Tasks Completed:
+distance_classification created
+gitignore created
+workflows enabled, yml created
+test_script created
